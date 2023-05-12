@@ -1,4 +1,4 @@
-#Kotlin Error Handling Examples
+## Kotlin Error Handling Examples
 
 In this repository I explore different approaches for error handling in Kotlin. Namely:
 
